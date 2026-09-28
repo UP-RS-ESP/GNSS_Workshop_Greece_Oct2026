@@ -1,4 +1,4 @@
-# INITIATE: GNSS Workshop - Greece September / October 2026
+# INITIATE: GNSS Data Processing Exercise - Greece September / October 2026
 
 If you **DO NOT** have a conda environment with relevant packages, please install this:
 ```bash

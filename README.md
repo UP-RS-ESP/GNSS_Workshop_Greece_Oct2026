@@ -1,11 +1,12 @@
 # INITIATE: GNSS Data Processing Exercise - Greece September / October 2026
 
+Bodo Bookhagen (bodo.bookhagen@uni-potsdam.de)
+
 If you **DO NOT** have a conda environment with relevant packages, please install this:
 ```bash
 conda create -n GNSSdata -c conda-forge python ipython geopandas pandas numpy pygmt scipy rasterio ipython jupyterlab rioxarray cartopy matplotlib
 conda activate GNSSdata
 ipython kernel install --user --name=GNSSdata
-jupyter lab
 ```
 
 If you have a working environment, you likely only need to install `pygmt`, `rasterio`, `geopandas`, and `cartopy`:

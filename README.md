@@ -2,6 +2,8 @@
 
 Bodo Bookhagen (bodo.bookhagen@uni-potsdam.de)
 
+![Briole2026_GNSS_pygmt.jpg](https://github.com/UP-RS-ESP/GNSS_Workshop_Greece_Oct2026/blob/0c83021e4606ccad9a1a1856c9288ba363d9ed06/Briole2026/Briole2026_GNSS_pygmt.jpg)
+
 If you **DO NOT** have a conda environment with relevant packages, please install this:
 ```bash
 conda create -n GNSSdata -c conda-forge python ipython geopandas pandas numpy pygmt scipy rasterio ipython jupyterlab rioxarray cartopy matplotlib
